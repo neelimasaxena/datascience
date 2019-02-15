@@ -1,0 +1,12 @@
+agitation
+angry
+calm
+certainty
+disgust
+dislike
+fear
+happy
+neutral
+sad
+surprise
+yawning

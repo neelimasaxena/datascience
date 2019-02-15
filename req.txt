@@ -1,0 +1,5 @@
+pip uninstall protobuf 
+pip uninstall tensorflow
+and then
+pip install protobuf 
+pip install tensorflow
